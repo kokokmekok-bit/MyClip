@@ -1,9 +1,0 @@
-node_modules/
-dist/
-.env
-data/uploads/*
-data/outputs/*
-data/audio/*
-!data/uploads/.gitkeep
-!data/outputs/.gitkeep
-!data/audio/.gitkeep
